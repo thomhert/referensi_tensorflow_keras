@@ -6,4 +6,4 @@ Yuk gabung our [Telegram Group](https://t.me/tf_idd)
 | Publikasi         | Codes                                   | Topik                   |           
 | -------------     | -------------                            | -------------          |
 | Tidak ada      |  [link to codes!](https://github.com/mjDelta/face-recognition-keras)       | Face Recognition     |
-| Content Cell      | Content Cell                            | -------------     |
+| [MaskRCNN](https://arxiv.org/abs/1703.06870)     | [link to codes!](https://github.com/matterport/Mask_RCNN)                   | Object Detection     |
