@@ -13,6 +13,7 @@ Yuk gabung our [Telegram Group](https://t.me/tf_idd)
 | Simple Online and Realtime Tracking with a Deep Association Metric [DeepSORT](https://arxiv.org/abs/1703.07402) | [codes](https://github.com/nwojke/deep_sort) | Multi-Object Tracking| 2017|
 | [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) | [codes](https://github.com/sorenbouma/keras-oneshot) | One-shot classification | - |
 | Generative Adversarial Networks (GAN) | [codes](https://github.com/eriklindernoren/Keras-GAN) | Generative Models | - |
+| Reinforcement Learning (RL) | [codes](https://github.com/keras-rl/keras-rl) | RL | - |
 
 
 
